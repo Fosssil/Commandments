@@ -15,4 +15,4 @@
 
 _\*Let Unix be a trademark of AT&amp;T_
 
-credits:[AffiliateFix](https://www.affiliatefix.com/threads/unix-users-group-ten-commandments-manual-ex-20-ver-1-21.31180/)
+credits: [AffiliateFix](https://www.affiliatefix.com/threads/unix-users-group-ten-commandments-manual-ex-20-ver-1-21.31180/)
