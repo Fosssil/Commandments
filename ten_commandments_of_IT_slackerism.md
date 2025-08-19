@@ -8,8 +8,8 @@
 
 Ignore the proliferation of OO programming languages (all of which seem to have stolen countless features from one another). It makes it difficult to understand why all those features are needed, and, especially, why the hell you should study them. That’s not a warning sign that you cannot cope with the University program. That actually may means two things:
 
-    - You are still normal despite studying software engineering for some time.
-    - In software fashion rulez no matter what.
+- You are still normal despite studying software engineering for some time.
+- In software fashion rulez no matter what.
 
 4. **Thou shalt know by your heart that all software sucks, but Unix sucks less the other OSes. Beware of those who say that their software does not suck, for they are either zealots or liars or charlatans.** _There is no silver bullet in software engineering._ That includes Microsoft products, GCC, Linux, Solaris, Java, etc. Most of the books/articles that worship some fashionable trends that promise some kind of breakthrough are either intentionally (written by software engineering charlatans) or unintentionally ( written by religious zealots) misleading and will be forgotten in a decade or so.
 
