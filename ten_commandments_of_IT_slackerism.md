@@ -32,28 +32,30 @@ The only true revelation of the art of programming is contained in [O’Reilly�
 
 Here is a short version for the time-pressed or lazy as they prefer to be known.
 
-    1. God rules
-    2. Images are copyrighted
-    3. Swear in moderation
-    4. Sunday double time
-    5. Honor stuff
-    6. Only kill what you eat or dislike
-    7. Cheat not unless pushed
-    8. Steal considerately
-    9. Don’t lie much
-    10. Ass. Don’t go there.
+1. God rules
+2. Images are copyrighted
+3. Swear in moderation
+4. Sunday double time-pressed
+5. Honor stuff
+6. Only kill what you eat or dislike
+7. Cheat not unless pushed
+8. Steal considerately
+9. Don’t lie much
+10. Ass. Don’t go there.
 
 ## A Modern Version of The 10 Commandments
 
 Compared with modern legislation, or even the small print in any contract, the 10 commandments are crystal clear. Nevertheless, they benefit from modern treatment especially for those who, while less than fully committed to modern religious teachings, feel the 10 commandments have innate worth.
 
-    1. You should not worry, for worry is the most unproductive of all human activities.
-    2. You should not be fearful, for most of the things we fear never come to pass.
-    3. You should not cross bridges before you come to them, for no one yet has succeeded in accomplishing this.
-    4. You should face each problem as it comes. You can only handle one at a time anyway.
-    5. You should not take problems to bed with you, for they make very poor bedfellows.
-    6. You should not borrow other people’s problems. They can better care for them than you can.
-    7. You should not try to relive yesterday for good or ill, it is forever gone. Concentrate on what is happening in your life and be happy now!
-    8. You should be a good listener, for only when you listen do you hear ideas different from your own. It is hard to learn something new when you are talking, and
-    9. Some people do know more than you do.
-    10. You should not become “bogged down” by frustration, for 90% of it is rooted in self-pity and will only interfere with positive action. You should count thy blessings, never overlooking the small ones, for a lot of small blessings add up to a big one.
+1. You should not worry, for worry is the most unproductive of all human activities.
+2. You should not be fearful, for most of the things we fear never come to pass.
+3. You should not cross bridges before you come to them, for no one yet has succeeded in accomplishing this.
+4. You should face each problem as it comes. You can only handle one at a time anyway.
+5. You should not take problems to bed with you, for they make very poor bedfellows.
+6. You should not borrow other people’s problems. They can better care for them than you can.
+7. You should not try to relive yesterday for good or ill, it is forever gone. Concentrate on what is happening in your life and be happy now!
+8. You should be a good listener, for only when you listen do you hear ideas different from your own. It is hard to learn something new when you are talking, and
+9. Some people do know more than you do.
+10. You should not become “bogged down” by frustration, for 90% of it is rooted in self-pity and will only interfere with positive action. You should count thy blessings, never overlooking the small ones, for a lot of small blessings add up to a big one.
+
+credits: [fvck](https://fvck.in/ten-commandmends/)
